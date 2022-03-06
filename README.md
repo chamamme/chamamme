@@ -3,7 +3,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-christian-santos-curi-a9472418b/)](https://www.linkedin.com/in/chamamme)
 
-Hi, meet Andrew Chamamme, he really enjoy programming. Today i'm a developer with +5 years of work experience.
+Hi!👋 Call me Drew.
+
+I build software solutions. Now that remote work is taking over, you will usually find me indoors taking turns in standing and sitting to code just to stay fit. Well, I hit the gym sometimes 🏋🏽‍♂️
+
+I've worked with most languages, frameworks and environments - Javascript, NodeJs, PHP, React, Laravel, AWS (Lambda, Cloudfront, Cloudwatch, MediaConvert, API Gateway, EC2 S3 Elastic Load Balancer,etc).
+
+Currently switching all my promising monolith pet projects to distributed microservices and integrating ML where needed.
 
 <h2>Here are some of my skill:</h2>
 
@@ -24,7 +30,7 @@ Hi, meet Andrew Chamamme, he really enjoy programming. Today i'm a developer wit
         <td>
             <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
             <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-            <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<!--             <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
             <!-- <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> -->
             <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
              <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -60,7 +66,7 @@ Hi, meet Andrew Chamamme, he really enjoy programming. Today i'm a developer wit
             <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
             <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
             <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-            <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+<!--             <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> -->
            <!-- <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
            <!-- <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/> -->
            <!-- <img src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> -->
@@ -71,6 +77,6 @@ Hi, meet Andrew Chamamme, he really enjoy programming. Today i'm a developer wit
 <hr>
 
 <p align="center">
-    <img alt="My GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=chamamme&theme=material-palenight&show_icons=true">
+    <img alt="My GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=chamamme&theme=material-palenight&show_icons=true&count_private=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamamme&hide=html&layout=compact&theme=material-palenight&count_private=true">
 </p>

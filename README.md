@@ -3,11 +3,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-christian-santos-curi-a9472418b/)](https://www.linkedin.com/in/chamamme)
 
-Hi!👋 Call me Drew.
+Hi!👋 I am Andrew Chamamme.
 
-I build software solutions. Now that remote work is taking over, you will usually find me indoors taking turns in standing and sitting to code just to stay fit. Well, I hit the gym sometimes 🏋🏽‍♂️
-
-I've worked with most languages, frameworks and environments - Javascript, NodeJs, PHP, React, Laravel, AWS (Lambda, Cloudfront, Cloudwatch, MediaConvert, API Gateway, EC2 S3 Elastic Load Balancer,etc).
+I build software solutions. I've worked with most languages, frameworks and environments - Javascript, NodeJs, PHP, React, Laravel, AWS (Lambda, Cloudfront, Cloudwatch, MediaConvert, API Gateway, EC2 S3 Elastic Load Balancer,etc).
 
 Currently switching all my promising monolith pet projects to distributed microservices and integrating ML where needed.
 

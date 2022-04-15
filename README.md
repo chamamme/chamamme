@@ -7,8 +7,6 @@ Hi!👋 I am Andrew Chamamme.
 
 I build software solutions. I've worked with most languages, frameworks and environments - Javascript, NodeJs, PHP, React, Laravel, AWS (Lambda, Cloudfront, Cloudwatch, MediaConvert, API Gateway, EC2 S3 Elastic Load Balancer,etc).
 
-Currently switching all my promising monolith pet projects to distributed microservices and integrating ML where needed.
-
 <h2>Here are some of my skill:</h2>
 
 <table>

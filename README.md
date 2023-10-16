@@ -1,5 +1,5 @@
 
-# Andrew Chamamme - Cloud/Software Engineer
+# Andrew Chamamme - Cloud & Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-christian-santos-curi-a9472418b/)](https://www.linkedin.com/in/chamamme)
 

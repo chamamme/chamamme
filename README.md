@@ -5,14 +5,14 @@
 
 Hi!👋 I am Andrew Chamamme.
 
-As a seasoned software developer with years of experience, I've seamlessly transitioned into the role of a Cloud Engineer and currently thriving as a Site Reliability Engineer. 
-This journey has equipped me with skills in AWS services like VPC, Route53, EC2, EKS, RDS, Opensearch, MediaConvert, CloudFront, S3, AMQP, and Lambda. I'm also adept at utilizing tools such as Terraform and Cloudflare to architect and optimize cloud environments.
+As a seasoned software developer with years of experience, I've seamlessly transitioned into the role of a Cloud Engineer as a Site Reliability Engineer. 
+This journey has equipped me with skills in cloud services like VPC, Route53, EC2, EKS, RDS, Opensearch, MediaConvert, CloudFront, S3, AMQP, and Lambda. I'm also adept at utilizing IAC, observability and monitoring tools to ensure availability.
 
-As an SRE, I've successfully led my product team through a successful cutover of Hubtel's core messaging service, ensuring a shift to a more reliable and well-architected version. My achievements extend to spearheading the implementation of a disaster recovery setup for critical services, boosting our infrastructure resilience. Leveraging my expertise, I've meticulously designed and deployed monitoring tools that provide granular telemetry insights, enhancing our overall operational efficiency.
+Through  critial architectural decisions as an SRE, I've successfully led and contributed to my team by ensuring our products are stable, reliable and available at all time. My achievements extend to spearheading the implementation of a disaster recovery for critical services and boosting our infrastructure resilience. Leveraging my expertise, I've meticulously designed and deployed monitoring tools that provide granular telemetry insights, enhancing our overall operational efficiency.
 
 One of my standout accomplishments has been implementing a media processing pipeline of an on-demand video and streaming service. Through strategic utilization of AWS services including Lambda, Media Convert, S3, CloudFront, and CloudWatch, I've streamlined content delivery and performance monitoring.
 
-With a robust proficiency in monitoring tools like NewRelic and Nagios, and a great programming experience in Javascript, PHP, and Python, I'm ready to contribute as a cloud engineer. 
+With a robust proficiency in monitoring tools like NewRelic, Grafana, Nagios, and a great programming experience in Javascript, PHP, and Python, I'm ready to contribute as a cloud engineer. 
 
 I'm eager to further evolve in this space, driven by a commitment to innovation, reliability, and technical excellence.
 
